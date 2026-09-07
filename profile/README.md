@@ -1,13 +1,13 @@
 <div align="center">
 
-# 🐳 Raise-A-Whale (养🐳)
+# 🐳 Raise-A-Whale
 
 <p align="center">
   <strong>🌊 A Place of AI Whale · Deep Diving into the Next-Generation AI Ecosystem</strong>
 </p>
 
 <p align="center">
-  <a href="README.md">简体中文</a> • <a href="README_EN.md">English</a>
+  <strong>English</strong> • <a href="https://github.com/Raise-A-Whale/.github/blob/main/profile/README_ZH.md">简体中文</a>
 </p>
 
 <p align="center">
@@ -21,47 +21,47 @@
 
 ---
 
-### 🌊 关于我们 / About Us
+### 🌊 About Us
 
-**Raise-A-Whale (养🐳)** 是一个专注于探索前沿人工智能（AI）、高性能系统与智能体（Agent）生态的开源组织。
+**Raise-A-Whale** is an open-source organization dedicated to exploring cutting-edge Artificial Intelligence (AI), high-performance systems, and autonomous agent ecosystems.
 
-如同蓝鲸在深海中沉潜探索，我们致力于在 AI 浪潮的深处沉淀有价值的开源基建，打造高效、可靠、优雅的开发者工具与框架。
+Just like blue whales diving deep into the vast ocean, we are committed to building solid, high-value open-source infrastructure in the depths of the AI wave—crafting efficient, reliable, and elegant developer tools and frameworks.
 
 > *"Dive deep into AI, ride the wave together."*
 
 ---
 
-### 🚀 核心生态 / Ecosystem
+### 🚀 Ecosystem
 
-| 项目 | 状态 | 说明 | 技术栈 |
+| Project | Status | Description | Tech Stack |
 | :--- | :---: | :--- | :--- |
-| 🐋 **whale_ai_sdk** | 🚧 积极孵化中 | 高性能、类型安全的 AI SDK 与核心接入层 | `Rust` |
-| 🤖 **AI Agents & Tools** | 💡 规划中 | 自主智能体框架、工具链与上下文工程解决方案 | `Rust` / `Python` |
+| 🐋 **whale_ai_sdk** | 🚧 Under Active Development | High-performance, type-safe AI SDK and core access layer | `Rust` |
+| 🤖 **AI Agents & Tools** | 💡 In Planning | Autonomous agent frameworks, toolchains, and context engineering solutions | `Rust` / `Python` |
 
 ---
 
-### 🛠️ 技术方向 / Tech Stack & Vision
+### 🛠️ Tech Stack & Vision
 
-- 🦀 **High-Performance AI Infra**：依托 Rust 等现代系统语言，构建极低延迟、高并发的 AI 底层支持与 SDK。
-- 🧠 **Agentic Workflows**：探索自主智能体（AI Agents）、多智能体协作与工作流调度。
-- 🔌 **Developer-First Ecosystem**：提供开箱即用、开发者友好的接口与工具库。
-
----
-
-### 🤝 参与贡献 / Contributing
-
-我们热烈欢迎所有对 AI 与开源充满热情的伙伴加入：
-
-1. **反馈与讨论**：欢迎在各个仓库提交 Issue，或在 [GitHub Discussions](https://github.com/orgs/Raise-A-Whale/discussions) 畅所欲言。
-2. **代码贡献**：关注带有 `good first issue` 标签的任务，Fork 仓库并提交 Pull Request。
-3. **生态共建**：欢迎分享你的想法、场景与最佳实践。
+- 🦀 **High-Performance AI Infra**: Building ultra-low latency, highly concurrent foundational AI infrastructure and SDKs powered by modern systems languages like Rust.
+- 🧠 **Agentic Workflows**: Exploring autonomous agents, multi-agent collaboration, and workflow orchestration.
+- 🔌 **Developer-First Ecosystem**: Providing out-of-the-box, developer-friendly interfaces and toolkits.
 
 ---
 
-### 📬 联系我们 / Connect
+### 🤝 Contributing
 
-- 🌐 **GitHub**：[@Raise-A-Whale](https://github.com/Raise-A-Whale)
-- 💬 **Discussions**：[Join the Community](https://github.com/orgs/Raise-A-Whale/discussions)
+We warmly welcome all developers and enthusiasts passionate about AI and open source:
+
+1. **Feedback & Discussions**: Feel free to submit issues in any repository or join the conversation in [GitHub Discussions](https://github.com/orgs/Raise-A-Whale/discussions).
+2. **Code Contributions**: Look for issues tagged `good first issue`, fork the repository, and submit a Pull Request.
+3. **Ecosystem Collaboration**: Share your ideas, real-world use cases, and best practices with the community.
+
+---
+
+### 📬 Connect
+
+- 🌐 **GitHub**: [@Raise-A-Whale](https://github.com/Raise-A-Whale)
+- 💬 **Discussions**: [Join the Community](https://github.com/orgs/Raise-A-Whale/discussions)
 
 ---
 
