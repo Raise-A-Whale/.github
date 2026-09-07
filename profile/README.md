@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <a href="README.md">简体中文</a> • <a href="README_EN.md">English</a>
+</p>
+
+<p align="center">
   <a href="https://github.com/Raise-A-Whale"><img src="https://img.shields.io/github/stars/Raise-A-Whale?style=flat-square&logo=github&color=0969da" alt="GitHub stars"></a>
   <img src="https://img.shields.io/badge/Language-Rust%20%7C%20Python-orange?style=flat-square" alt="Language">
   <a href="https://github.com/orgs/Raise-A-Whale/discussions"><img src="https://img.shields.io/badge/Community-Discussions-purple?style=flat-square&logo=github" alt="Discussions"></a>
