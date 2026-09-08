@@ -35,7 +35,7 @@
 
 | 项目 | 状态 | 说明 | 技术栈 |
 | :--- | :---: | :--- | :--- |
-| 🐋 **whale_ai_sdk** | 🚧 积极孵化中 | 高性能、类型安全的 AI SDK 与核心接入层 | `Rust` |
+| 🐋 [**whale_ai_sdk**](https://github.com/Raise-A-Whale/whale_ai_sdk) | 🚧 积极孵化中 | 面向下一代自主智能体的高性能、工业级分布式 SDK 与调度底座 | `Rust` / `Python` / `Java` |
 | 🤖 **AI Agents & Tools** | 💡 规划中 | 自主智能体框架、工具链与上下文工程解决方案 | `Rust` / `Python` |
 
 ---
