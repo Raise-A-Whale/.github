@@ -35,7 +35,7 @@ Just like blue whales diving deep into the vast ocean, we are committed to build
 
 | Project | Status | Description | Tech Stack |
 | :--- | :---: | :--- | :--- |
-| 🐋 [**whale_ai_sdk**](https://github.com/Raise-A-Whale/whale_ai_sdk) | 🚧 Under Active Development | High-performance, industrial-grade distributed SDK and scheduling foundation for next-generation autonomous agents | `Rust` / `Python` / `Java` |
+| 🐋 **whale_ai_sdk** | 🔒 Private (In Development) | High-performance, industrial-grade distributed SDK and scheduling foundation for next-generation autonomous agents | `Rust` / `Python` / `Java` |
 | 🤖 **AI Agents & Tools** | 💡 In Planning | Autonomous agent frameworks, toolchains, and context engineering solutions | `Rust` / `Python` |
 
 ---
