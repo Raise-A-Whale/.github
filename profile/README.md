@@ -33,10 +33,10 @@ Just like blue whales diving deep into the vast ocean, we are committed to build
 
 ### 🚀 Ecosystem
 
-| Project | Status | Description | Tech Stack |
-| :--- | :---: | :--- | :--- |
-| 🐋 **whale_ai_sdk** | 🔒 Private (In Development) | High-performance, industrial-grade distributed SDK and scheduling foundation for next-generation autonomous agents | `Rust` / `Python` / `Java` |
-| 🤖 **AI Agents & Tools** | 💡 In Planning | Autonomous agent frameworks, toolchains, and context engineering solutions | `Rust` / `Python` |
+| Project | Status | Description | Stars |
+| :---: | :---: | :---: | :---: |
+| 🐋 [**whale_ai_sdk**](https://github.com/Raise-A-Whale/whale_ai_sdk) | 🚧 Under Active Development | High-performance, industrial-grade distributed SDK and scheduling foundation for next-generation autonomous agents | [![GitHub stars](https://img.shields.io/github/stars/Raise-A-Whale/whale_ai_sdk?style=flat-square&logo=github)](https://github.com/Raise-A-Whale/whale_ai_sdk/stargazers) |
+| 🤖 **AI Agents & Tools** | 💡 In Planning | Autonomous agent frameworks, toolchains, and context engineering solutions | — |
 
 ---
 
