@@ -35,7 +35,7 @@
 
 | 项目 | 状态 | 说明 | Star 数 |
 | :---: | :---: | :---: | :---: |
-| 🐋 [**whale_ai_sdk**](https://github.com/Raise-A-Whale/whale_ai_sdk) | 🚧 积极孵化中 | 面向下一代自主智能体的高性能、工业级分布式 SDK 与调度底座 | [![GitHub stars](https://img.shields.io/github/stars/Raise-A-Whale/whale_ai_sdk?style=flat-square&logo=github)](https://github.com/Raise-A-Whale/whale_ai_sdk/stargazers) |
+| 🐋 [**whale_ai_sdk**](https://github.com/Raise-A-Whale/whale_ai_sdk) | 🌟 开源 (Alpha / 预览版) | 面向下一代自主智能体的高性能、工业级分布式 SDK 与调度底座 | [![GitHub stars](https://img.shields.io/github/stars/Raise-A-Whale/whale_ai_sdk?style=flat-square&logo=github)](https://github.com/Raise-A-Whale/whale_ai_sdk/stargazers) |
 | 🤖 **AI Agents & Tools** | 💡 规划中 | 自主智能体框架、工具链与上下文工程解决方案 | — |
 
 ---

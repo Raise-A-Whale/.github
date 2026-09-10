@@ -35,7 +35,7 @@ Just like blue whales diving deep into the vast ocean, we are committed to build
 
 | Project | Status | Description | Stars |
 | :---: | :---: | :---: | :---: |
-| 🐋 [**whale_ai_sdk**](https://github.com/Raise-A-Whale/whale_ai_sdk) | 🚧 Under Active Development | High-performance, industrial-grade distributed SDK and scheduling foundation for next-generation autonomous agents | [![GitHub stars](https://img.shields.io/github/stars/Raise-A-Whale/whale_ai_sdk?style=flat-square&logo=github)](https://github.com/Raise-A-Whale/whale_ai_sdk/stargazers) |
+| 🐋 [**whale_ai_sdk**](https://github.com/Raise-A-Whale/whale_ai_sdk) | 🌟 Open Source (Alpha / Preview) | High-performance, industrial-grade distributed SDK and scheduling foundation for next-generation autonomous agents | [![GitHub stars](https://img.shields.io/github/stars/Raise-A-Whale/whale_ai_sdk?style=flat-square&logo=github)](https://github.com/Raise-A-Whale/whale_ai_sdk/stargazers) |
 | 🤖 **AI Agents & Tools** | 💡 In Planning | Autonomous agent frameworks, toolchains, and context engineering solutions | — |
 
 ---
